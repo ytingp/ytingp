@@ -1,4 +1,4 @@
-<h1> Hi there, I'm Yin Ting Pang. </h1>
+<h1> Hi there, I'm Yin Ting! </h1>
 
 #### 😄 About Me
 Welcome to my protfoilo where I showcase some of my past projects! I am an aspiring data analyst who graduated from the Unviersty of Washington with a BS in Informatics. 
