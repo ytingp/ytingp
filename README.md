@@ -1,8 +1,7 @@
-<h1> Hi there, I'm Yin Ting Pang. Aspiring data analyst. Welcome to my protfoilo where I will be showcasing some of my past projects, and this be the home for my upcoming projects!
- </h1>
+<h1> Hi there, I'm Yin Ting Pang. </h1>
 
 #### 😄 About Me
-I am an aspiring data analyst who graduate from the Unviersty of Washington with a BS in Informatics. 
+Welcome to my protfoilo where I will be showcasing some of my past projects, and this be the home for my upcoming projects! I am an aspiring data analyst who graduate from the Unviersty of Washington with a BS in Informatics. 
 
 #### ⚡ Tech Stack
 
