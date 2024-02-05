@@ -19,7 +19,8 @@ Welcome to my protfoilo where I will be showcasing some of my past projects, and
 | Project Link | Tools | Project Description | 
 |---|---|---|
 | [Gender Disparity in Video Games](https://github.com/ytingp/Gender-Disparity-in-Video-Games/tree/main) | Python: Pandas & matplotlib | fill in later |
-| [Reddit-Bot]() | Python: Pandas & PRAW | fill in later |
+| [Reddit-Bot](https://github.com/ytingp/Reddit-Bot) | Python: Pandas & PRAW | fill in later |
+| [Car Dealership](https://github.com/ytingp/Car-Dealership/tree/main) | SQL, Microsoft SQL Server | fill in later |
 
 #### 📫 Contact
 
