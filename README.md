@@ -3,6 +3,12 @@
 #### 😄 About Me
 Welcome to my protfoilo where I will be showcasing some of my past projects, and this be the home for my upcoming projects! I am an aspiring data analyst who graduate from the Unviersty of Washington with a BS in Informatics. 
 
+### ✨ Skills Highlight
+- Data processing using python
+- Data visulization using PowerBI and Tableau
+- SQL queries, store procedures, and functions
+- Database design and implementation
+
 #### ⚡ Tech Stack
 
 - Languages: SQL, Python
