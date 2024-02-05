@@ -2,7 +2,8 @@
 
 
 ### 🌱 Projects
-### ⚡ Tools
+### ⚡ Tech Stack
+
 ### 📫 Contact
 
 <!--
