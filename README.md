@@ -1,8 +1,8 @@
 # Hi there, I'm Yin Ting Pang. Aspiring data analyst. Welcome to my Protfoilo. 
 
 
-### ⚡ Tech Stack
-***
+# ⚡ Tech Stack
+
 - Languages: SQL, Python
 - Database: Azure Data Studio, Microsoft SQL Server Management Studio, MongoDB
 - Visualization: PowerBI, Tableau, Excel
