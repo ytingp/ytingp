@@ -1,8 +1,17 @@
-### Hi there, I'm Yin Ting Pang. Aspiring data analyst.
-
-
-### 🌱 Projects
+### Hi there, I'm Yin Ting Pang. Aspiring data analyst. Welcome to my Protfoilo. 
+***
 ### ⚡ Tech Stack
+***
+- Languages: SQL, Python
+- Database: Azure Data Studio, Microsoft SQL Server Management Studio, MongoDB
+- Visualization: PowerBI, Tableau, Excel
+  
+### 🌱 Projects
+| Project Link | Tools | Project Description | 
+|---|---|---|
+| [Gender Disparity in Video Games](https://github.com/ytingp/Gender-Disparity-in-Video-Games/tree/main) | Python: Pandas & matplotlib | Developed and implemented an end-to-end ETL pipeline for processinsg NYC Trip Record data. The pipeline encompassed extracting raw data, performing data transformation using Python, applying fact and dimensional data modelling techniques, orchestrating the pipeline on Mage, and ultimately creating a dashboard using Looker Studio. |
+
+***
 
 ### 📫 Contact
 
