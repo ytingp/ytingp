@@ -1,9 +1,9 @@
 ### Hi there, I'm Yin Ting Pang. Aspiring data analyst.
 
 
-## 🌱 Projects
-## ⚡ Tools
-## 📫 Contact
+### 🌱 Projects
+### ⚡ Tools
+### 📫 Contact
 
 <!--
 **ytingp/ytingp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
