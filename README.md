@@ -12,7 +12,8 @@ Welcome to my protfoilo where I will be showcasing some of my past projects, and
 #### 🌱 Projects
 | Project Link | Tools | Project Description | 
 |---|---|---|
-| [Gender Disparity in Video Games](https://github.com/ytingp/Gender-Disparity-in-Video-Games/tree/main) | Python: Pandas & matplotlib | Developed and implemented an end-to-end ETL pipeline for processinsg NYC Trip Record data. The pipeline encompassed extracting raw data, performing data transformation using Python, applying fact and dimensional data modelling techniques, orchestrating the pipeline on Mage, and ultimately creating a dashboard using Looker Studio. |
+| [Gender Disparity in Video Games](https://github.com/ytingp/Gender-Disparity-in-Video-Games/tree/main) | Python: Pandas & matplotlib | fill in later |
+| [Reddit-Bot]() | Python: Pandas & PRAW | fill in later |
 
 #### 📫 Contact
 
