@@ -1,5 +1,5 @@
-### Hi there, I'm Yin Ting Pang. Aspiring data analyst. Welcome to my Protfoilo. 
-******
+# Hi there, I'm Yin Ting Pang. Aspiring data analyst. Welcome to my Protfoilo. 
+
 
 ### ⚡ Tech Stack
 ***
