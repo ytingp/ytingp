@@ -3,7 +3,7 @@
 #### 😄 About Me
 Welcome to my protfoilo where I showcase some of my past projects. I am an aspiring data analyst who graduated from the Unviersty of Washington with a BS in Informatics. Excited to explore data-related opportunities and projects!
 
-### ✨ Skills Highlight
+#### ✨ Skills Highlight
 - Data processing using python
 - Data visulization using PowerBI and Tableau
 - SQL queries, store procedures, and functions
@@ -22,6 +22,8 @@ Welcome to my protfoilo where I showcase some of my past projects. I am an aspir
 | [Reddit-Bot](https://github.com/ytingp/Reddit-Bot) | Python: Pandas & PRAW | fill in later |
 | [Car Dealership](https://github.com/ytingp/Car-Dealership/tree/main) | SQL, Microsoft SQL Server | fill in later |
 
+#### 💬 Currently Learning:
+- Snowflake
 #### 📫 Contact
 
 <!--
