@@ -17,7 +17,7 @@ Welcome to my protfoilo where I showcase some of my past projects. I am an aspir
   
 #### 🌱 Projects
 | Project Link | Tech | Skills | Project Description | 
-|---|---|---|
+|---|---|---|---|
 | [Gender Disparity in Video Games](https://github.com/ytingp/Gender-Disparity-in-Video-Games/tree/main) | Python: Pandas & matplotlib | Data Cleaning, Data Visualization | fill in later |
 | [Reddit-Bot](https://github.com/ytingp/Reddit-Bot) | Python: Pandas & PRAW | Programming | fill in later |
 | [Car Dealership](https://github.com/ytingp/Car-Dealership/tree/main) | SQL, Microsoft SQL Server | Data Modeling and Enginnering, Querying  | fill in later |
