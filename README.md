@@ -5,7 +5,7 @@ Welcome to my protfoilo where I showcase some of my past projects. I am an aspir
 
 #### ✨ Skills Highlight
 - Data processing using python
-- Data visulization using PowerBI and Tableau
+- Data visualization using PowerBI and Tableau
 - SQL queries, store procedures, and functions
 - Database design and implementation
 
@@ -16,11 +16,11 @@ Welcome to my protfoilo where I showcase some of my past projects. I am an aspir
 - Visualization: PowerBI, Tableau, Excel
   
 #### 🌱 Projects
-| Project Link | Tools | Project Description | 
+| Project Link | Tech | Skills | Project Description | 
 |---|---|---|
-| [Gender Disparity in Video Games](https://github.com/ytingp/Gender-Disparity-in-Video-Games/tree/main) | Python: Pandas & matplotlib | fill in later |
-| [Reddit-Bot](https://github.com/ytingp/Reddit-Bot) | Python: Pandas & PRAW | fill in later |
-| [Car Dealership](https://github.com/ytingp/Car-Dealership/tree/main) | SQL, Microsoft SQL Server | fill in later |
+| [Gender Disparity in Video Games](https://github.com/ytingp/Gender-Disparity-in-Video-Games/tree/main) | Python: Pandas & matplotlib | Data Cleaning, Data Visualization | fill in later |
+| [Reddit-Bot](https://github.com/ytingp/Reddit-Bot) | Python: Pandas & PRAW | Programming | fill in later |
+| [Car Dealership](https://github.com/ytingp/Car-Dealership/tree/main) | SQL, Microsoft SQL Server | Data Modeling and Enginnering, Querying  | fill in later |
 
 #### 💬 Currently Learning:
 - Snowflake
