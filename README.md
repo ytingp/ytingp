@@ -22,7 +22,7 @@ Welcome to my protfoilo where I showcase some of my past projects. I am an aspir
 | [Reddit-Bot](https://github.com/ytingp/Reddit-Bot) | Python: Pandas & PRAW | Programming | Engineered a bot that posts daily motivational quote onto a dedicated subreddit |
 | [Car Dealership](https://github.com/ytingp/Car-Dealership/tree/main) | SQL, Microsoft SQL Server | Data Modeling and Enginnering, Querying  | Designed and implemented a database for a car dealership business |
 | [Finanical Analysis](https://github.com/ytingp/Discover-Financial-Analysis/blob/main/README.md) | Python, PowerBI | Data Wrangling, Data Visualization | Exploratory analysis on finanical statements and created a dashboard showcasing trends and insights|
-| []() | PowerBI, MongoDB, Javascript | Data Visualization, Web Dev | |
+| [Capstone](https://github.com/michaelgov/PandaCapstone) | PowerBI, MongoDB, Javascript | Data Visualization, Web Dev | |
 
 #### 💬 Currently Learning:
 - Snowflake
