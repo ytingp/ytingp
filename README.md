@@ -18,9 +18,11 @@ Welcome to my protfoilo where I showcase some of my past projects. I am an aspir
 #### 🌱 Projects
 | Project Link | Tech | Skills | Project Description | 
 |---|---|---|---|
-| [Gender Disparity in Video Games](https://github.com/ytingp/Gender-Disparity-in-Video-Games/tree/main) | Python: Pandas & matplotlib | Data Cleaning, Data Visualization | fill in later |
-| [Reddit-Bot](https://github.com/ytingp/Reddit-Bot) | Python: Pandas & PRAW | Programming | fill in later |
-| [Car Dealership](https://github.com/ytingp/Car-Dealership/tree/main) | SQL, Microsoft SQL Server | Data Modeling and Enginnering, Querying  | fill in later |
+| [Gender Disparity in Video Games](https://github.com/ytingp/Gender-Disparity-in-Video-Games/tree/main) | Python: Pandas & matplotlib | Data Wrangling, Data Visualization | Exploratory analysis on how characters and their gender are represented in video games by analyzing 600+ video game characters from the most popular video games |
+| [Reddit-Bot](https://github.com/ytingp/Reddit-Bot) | Python: Pandas & PRAW | Programming | Engineered a bot that posts daily motivational quote onto a dedicated subreddit |
+| [Car Dealership](https://github.com/ytingp/Car-Dealership/tree/main) | SQL, Microsoft SQL Server | Data Modeling and Enginnering, Querying  | Designed and implemented a database for a car dealership business |
+| [Finanical Analysis]() | Python, PowerBI | Data Wrangling, Data Visualization | Exploratory analysis on finanical statements and created a dashboard showcasing trends and insights|
+| []() | PowerBI, MongoDB, Javascript | Data Visualization, Web Dev | |
 
 #### 💬 Currently Learning:
 - Snowflake
